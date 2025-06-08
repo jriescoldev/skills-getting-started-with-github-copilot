@@ -1,0 +1,23 @@
+```css
+/* ...existing code... */
+.participants-section {
+  background: #f9f9fb;
+  border-radius: 8px;
+  padding: 1em;
+  margin-top: 1em;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+.participants-section h4 {
+  margin: 0 0 0.5em 0;
+  color: #4a4a4a;
+}
+.participants-section ul {
+  padding-left: 1.2em;
+  margin: 0;
+}
+.participants-section li {
+  margin-bottom: 0.3em;
+  color: #333;
+}
+/* ...existing code... */
+```
